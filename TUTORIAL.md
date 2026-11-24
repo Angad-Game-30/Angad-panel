@@ -9,7 +9,7 @@ This repository contains:
 **Step 1:** Install the **Angad-Panel** by clicking on the green button saying **<>code** and then **Download ZIP**, after that unzip it.
 
 **Step 2:** go inside the folder and find the **Angad-Panel** file, it contains the Panel itself, after you find it, put it into the **.themes** folder.
-If you can't find **.themes**, you can find it in **/home/(your username)/.themes** if you don't have a **.themes**, then create one yourself like the **/home/(your username)/.themes**
+If you can't find **.themes**, if you are at the home page, you can try to hit **ctrl+H** to show hidden files or you can find it in **/home/(your username)/.themes** if you don't have a **.themes** folder, then create one yourself like the **/home/(your username)/.themes**
 
 **Step 3:** Ok, now open **Themes** and on panel, use **Angad-Panel**
 
